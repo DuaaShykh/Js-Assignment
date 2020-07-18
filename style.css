@@ -1,0 +1,33 @@
+a{
+        
+    margin-left: 60px;
+}
+.mobiles h1{
+    text-align: center;
+    color: blue;
+}
+.mobiles ul li{
+    display: inline-block;
+}
+.mobiles ul li img:hover{
+    transform: scale(1.1);
+}
+table{
+    border: 2px solid gray;
+    width: 230px;
+}
+#std, td{
+    border: 2px solid gray;
+    text-align: center;
+    width: 330px;
+}
+.dis{
+    display: block;
+}
+
+#stdRecord table  th{
+border:  2px solid gray;
+font-size: 30px;
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+}
