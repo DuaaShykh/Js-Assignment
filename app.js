@@ -1595,6 +1595,14 @@ function add_row()
  document.getElementById("new_age").value="";
 }
 
+//chapter#52-57
+//Question#1
+function zoom(e){
+    var img=document.getElementById('modalImg');
+    img.src=e.src;
+}
+
+
 //Chapter#58-67
             //////Question#1//////
 //ans 1
